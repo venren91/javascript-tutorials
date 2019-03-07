@@ -24,4 +24,4 @@ Public APIs
 
 Quick links
 =================
-- [What is `this`](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
+- [What is "`this`"](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
