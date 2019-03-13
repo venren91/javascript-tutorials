@@ -6,7 +6,8 @@ Table of contents
 
 1. [JS Beginners](#Beginner)
 2. [Public APIs for testing](#Public-APIs) 
-3. [Quick links](#quick-lins)
+3. [Quick links](#quick-links)
+4. [miscellaneous](#miscellaneous)
 
 
 Beginner
@@ -25,3 +26,7 @@ Public APIs
 Quick links
 =================
 - [What is `this`](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
+
+Misc
+=================
+- [Dev sites to visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
