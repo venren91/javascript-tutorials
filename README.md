@@ -8,6 +8,7 @@ Table of contents
 2. [Public APIs for testing](#Public-APIs) 
 3. [Quick links](#quick-links)
 4. [miscellaneous](#miscellaneous)
+5. [Frameworks](#frameworks)
 
 
 Beginner
@@ -21,6 +22,10 @@ Beginner
 Public APIs 
 =================
 - [Public APIs](https://github.com/toddmotto/public-apis/)
+
+Frameworks
+=================
+- [Collection of redux tutorials](https://redux.js.org/introduction/learning-resources)
 
 
 Quick links
